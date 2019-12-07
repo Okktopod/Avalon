@@ -1,13 +1,13 @@
-Description:
+Description: "A Dip in the Moonwell" does not work.
 
-How to reproduce bug:
+How to reproduce bug: N/A
 
-How it should work:
+How it should work: Upon hitting the "Gather Water" button, by deafult on the "2" key, the quest objective "Thalanaar Moonwell Water 0/1" should be checked and the quest should be available for completion
 
-Screenshots:
+Screenshots: https://prnt.sc/q7eerd
 
-Relevant AddOns used:
+Relevant AddOns used: No addons
 
-External sources:
+External sources: N/A
 
-Who are you?
+Who are you? Okktopod on Discord, Oktopod in-game shaman
